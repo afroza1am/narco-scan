@@ -10,7 +10,7 @@
    
    > git clone https://github.com/afroza1am/narco-scan.git
    
-   > cd NarcoScan
+   > cd narco-scan
 
 
 2. **Install dependencies**  

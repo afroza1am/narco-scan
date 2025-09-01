@@ -9,6 +9,7 @@
 1. **Clone the repository**  
    
    > git clone https://github.com/afroza1am/narco-scan.git
+   
    > cd NarcoScan
 
 

@@ -1,2 +1,0 @@
-install node.js and express.js
-run server.js then open index.html

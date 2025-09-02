@@ -1,6 +1,6 @@
 ## Demo Video
 
-[Click To Watch The Demo of NarcoScan](https://www.youtube.com/watch?v=example](https://vimeo.com/1114977423?share=copy)
+[Click To Watch The Demo of NarcoScan](https://vimeo.com/1114977423?share=copy)
 
 
 
